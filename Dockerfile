@@ -8,4 +8,4 @@ RUN gem install sinatra
 
 EXPOSE 4567
 
-CMD ['ruby', 'app.rb']
+CMD ruby app.rb
